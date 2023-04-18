@@ -1,7 +1,8 @@
+import 'package:conselheiro/presentation/widgets/input_name/input_name_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MainApp());
+  runApp(const InputNameScreen());
 }
 
 class MainApp extends StatelessWidget {
